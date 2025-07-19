@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "statusCode": 200,
+    "message": "Data fetched successfully",
+    "data": {
+      "originalLCA": 150,
+      "optimizedLCA": 120,
+      "unit": "kg CO2e",
+      "optimizationReason": "Replaced foam type X with foam type Y, reducing material emissions by 20%. Also optimized wall thickness while maintaining structural integrity."
+    }
+  }
+  
